@@ -1,5 +1,5 @@
 更新时间,#genre#
-2024-11-18 19:03:30,url
+2024-11-19 07:07:23,url
 📺央视频道,#genre#
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3$订阅源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -340,6 +340,7 @@ CCTV-16,http://120.55.49.231:3152/rtp/233.50.201.192:5140$浙江电信组播源
 CCTV-16,http://120.55.49.231:6519/rtp/233.50.201.192:5140$组播源
 CCTV-16,http://122.9.151.210:2498/rtp/238.255.2.219:5999$组播源
 CCTV-16,http://120.55.49.231:3543/rtp/233.50.201.192:5140$组播源
+CCTV-16,http://122.9.151.210:5937/rtp/238.255.2.219:5999$贵州电信组播源
 CCTV-17,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3$订阅源
 CCTV-17,http://60.210.100.54:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-17,http://123.138.22.30:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -367,12 +368,14 @@ CETV1,http://123.56.129.203:9457/rtp/225.1.8.169:4120$北京电信组播源
 CETV1,http://122.9.151.210:2659/rtp/238.255.2.105:5999$贵州电信组播源
 CETV1,http://122.9.151.210:1011/rtp/238.255.2.105:5999$贵州电信组播源
 CETV1,http://120.55.49.231:3152/rtp/233.50.201.75:5140$浙江电信组播源
+CETV1,http://122.9.151.210:5937/rtp/238.255.2.105:5999$贵州电信组播源
 CETV2,http://123.56.129.203:9986/rtp/225.1.8.193:4120$北京电信组播源
 CETV2,http://122.9.151.210:2790/rtp/238.255.2.221:5999$贵州电信组播源
 CETV2,http://122.9.151.210:3347/rtp/238.255.2.221:5999$贵州电信组播源
 CETV2,http://123.56.129.203:9457/rtp/225.1.8.193:4120$北京电信组播源
 CETV2,http://122.9.151.210:2659/rtp/238.255.2.221:5999$贵州电信组播源
 CETV2,http://122.9.151.210:1011/rtp/238.255.2.221:5999$贵州电信组播源
+CETV2,http://122.9.151.210:5937/rtp/238.255.2.221:5999$贵州电信组播源
 CETV4,http://123.56.129.203:9986/rtp/225.1.8.195:4120$北京电信组播源
 CETV4,http://122.9.151.210:2790/rtp/238.255.2.222:5999$贵州电信组播源
 CETV4,http://122.9.151.210:3347/rtp/238.255.2.222:5999$贵州电信组播源
@@ -380,7 +383,9 @@ CETV4,http://123.56.129.203:9457/rtp/225.1.8.195:4120$北京电信组播源
 CETV4,http://122.9.151.210:2659/rtp/238.255.2.222:5999$贵州电信组播源
 CETV4,http://122.9.151.210:1011/rtp/238.255.2.222:5999$贵州电信组播源
 CETV4,http://120.55.49.231:3152/rtp/233.50.200.162:5140$浙江电信组播源
+CETV4,http://122.9.151.210:5937/rtp/238.255.2.222:5999$贵州电信组播源
 💰央视付费频道,#genre#
+央视台球,http://118.248.160.144:8888/rtp/239.76.254.58:9000$组播源|1920x1080
 风云足球,http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.229:80/PLTV/4/224/3221228668/1.m3u8?accountinfo=7Nbs4SAtmisdhfg9u9VfuRylKFo%2FsFe211XeT0tFiPe3sKM6ExysDo0g3A9CbIkx5b%2FFw3kQIXPRRrkOn3II%2B%2Fc0Ta4f4DIFOsGdGiU4JeF8fi9dPYnTHN8Os8jC4LZfFgCcgHZcoIABWGUx4GF9bqeo84KrB1TAVruJzkRIWcU%3D%3A20241026024257%2C-1%2C36.156.32.22%2C20241026024257%2CG_FENGSHANGZQ-CQ%2C1734208109853_10%3A13%3A6D%3AA1%3A26%3A38%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000019436166_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FG_FENGSHANGZQ-CQ%2FG_FENGSHANGZQ-CQ&icpid=88888888&from=5&popid=5&hms_devid=6449&prioritypopid=5$订阅源
 风云足球,http://183.94.146.109:2222/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -596,8 +601,8 @@ CETV4,http://120.55.49.231:3152/rtp/233.50.200.162:5140$浙江电信组播源
 甘肃卫视,http://202.100.46.58:9901/tsfile/live/1035_1.m3u8$订阅源
 甘肃卫视,http://202.100.46.58:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 甘肃卫视,http://39.98.201.151:9090/udp/225.1.8.162:8188$订阅源
-甘肃卫视,http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3$订阅源
 甘肃卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031121$订阅源
+甘肃卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3$订阅源
 甘肃卫视,http://123.56.129.203:9986/rtp/225.1.8.162:8188$北京电信组播源
 甘肃卫视,http://139.196.151.191:2051/rtp/239.45.1.234:5140$组播源
 甘肃卫视,http://123.56.129.203:4310/rtp/225.1.8.162:8188$组播源
@@ -1066,7 +1071,7 @@ CETV4,http://120.55.49.231:3152/rtp/233.50.200.162:5140$浙江电信组播源
 明珠台,https://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$订阅源|1920x1080
 明珠台,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$订阅源|1920x1080
 明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8$订阅源
-凤凰中文,http://211.72.65.236:8577/.m3u8$订阅源
+凤凰中文,http://211.72.65.236:8577/.m3u8$订阅源|1920x1080
 凤凰中文,http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.59:80/PLTV/3/224/3221228527/1.m3u8?accountinfo=liKUscxeA3mntTkvcrPdLC0JYhRJ8GbjSgBJJtzDsTUq%2FpkEzcEgSA5jxU7E691yoTzNtIBFrb%2BIDS0e%2Fx7VbeVgZAe%2Fh9LVb30YjuWosxNwd%2FGCIxz9Y34Vf7X4oRpDbF2ObC9a54Vp367lDA52PczEcH9gPEwYj%2BtNwrWi0aU%3D%3A20241025090449%2C-1%2C112.25.63.228%2C20241025090449%2CHD-10000k-1080P-fhchinese5s%2C1734243741512_23%3A8F%3AF4%3AAE%3A73%3AC6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000016268459_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FHD-10000k-1080P-fhchinese5s%2FHD-10000k-1080P-fhchinese5s&icpid=88888888&from=5&popid=5&hms_devid=6885&prioritypopid=5$订阅源
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?$订阅源
@@ -1077,7 +1082,7 @@ CETV4,http://120.55.49.231:3152/rtp/233.50.200.162:5140$浙江电信组播源
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8$订阅源
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$订阅源|1920x1080
 凤凰中文,http://60.164.128.167:8029/rtp/239.255.30.50:8231$组播源|1920x1080
-凤凰中文,http://www.lebaobei.top:6868/rtp/239.255.30.50:8231$组播源|1920x1080
+凤凰中文,http://www.lebaobei.top:6868/rtp/239.255.30.50:8231$组播源
 凤凰中文,http://120.55.49.231:3152/rtp/233.50.200.191:5140$浙江电信组播源
 凤凰中文,http://120.55.49.231:2732/rtp/233.50.200.191:5140$组播源
 凤凰中文,http://120.55.49.231:5783/rtp/233.50.200.191:5140$组播源
@@ -1096,7 +1101,7 @@ CETV4,http://120.55.49.231:3152/rtp/233.50.200.162:5140$浙江电信组播源
 凤凰资讯,http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228524/1.m3u8?accountinfo=pSB2G6bQwIdcXUpY7t8OEjuMhBR83Chj5BS0lv%2BFQDAq%2FpkEzcEgSA5jxU7E691yhVQTa1OZuMpEn5hHojelODOmFq4bYs9eiikKfwhL1xP3NdD3bB1RViFnRCn32QSUbF2ObC9a54Vp367lDA52PczEcH9gPEwYj%2BtNwrWi0aU%3D%3A20241025090452%2C-1%2C112.25.63.228%2C20241025090452%2CHD-10000k-1080P-fhzixun5s%2C1734232009108_D5%3A7B%3AF7%3A2F%3A4B%3A83%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000016268486_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FHD-10000k-1080P-fhzixun5s%2FHD-10000k-1080P-fhzixun5s&icpid=88888888&from=5&popid=5&hms_devid=6448&prioritypopid=5$订阅源
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8$订阅源
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8$订阅源|1920x1080
-凤凰资讯,http://www.lebaobei.top:6868/rtp/239.255.30.70:8231$组播源|1920x1080
+凤凰资讯,http://www.lebaobei.top:6868/rtp/239.255.30.70:8231$组播源
 凤凰资讯,http://60.164.128.167:8029/rtp/239.255.30.70:8231$组播源|1920x1080
 凤凰资讯,http://120.55.49.231:3152/rtp/233.50.200.192:5140$浙江电信组播源
 凤凰资讯,http://120.55.49.231:2732/rtp/233.50.200.192:5140$组播源
@@ -1116,9 +1121,9 @@ CETV4,http://120.55.49.231:3152/rtp/233.50.200.162:5140$浙江电信组播源
 凤凰香港,https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8$订阅源|1920x1080
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8$订阅源|1920x1080
 凤凰香港,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-5$订阅源|1920x1080
-凤凰香港,http://www.lebaobei.top:6868/rtp/239.255.30.123:8231$组播源|1920x1080
+凤凰香港,http://www.lebaobei.top:6868/rtp/239.255.30.123:8231$组播源
 凤凰香港,http://60.164.128.167:8029/rtp/239.255.30.123:8231$组播源|1920x1080
-凤凰卫视,http://211.72.65.236:8577/.m3u8$订阅源
+凤凰卫视,http://211.72.65.236:8577/.m3u8$订阅源|1920x1080
 凤凰卫视,http://211.72.65.236:8576/.m3u8$订阅源|1920x1080
 凤凰卫视,http://58.215.231.60/live2.rxip.sc96655.com/live/test1_4000.m3u8$订阅源
 凤凰卫视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd$订阅源
@@ -1163,15 +1168,14 @@ Viutv,https://live.hkdvb.com/hls/live/99.m3u8?token=631170156112507&edge=live.tv
 无线新闻,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8$订阅源|1920x1080
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
 三立新闻,http://litv.zapi.us.kg/?id=4gtv-live089$订阅源
-三立新闻,http://211.72.65.236:8543/.m3u8$订阅源|1920x1080
+三立新闻,http://211.72.65.236:8543/.m3u8$订阅源
 三立新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8$订阅源|1920x1080
 三立新闻,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14$订阅源|1920x1080
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
-东森综合,http://211.72.65.236:8524/.m3u8$订阅源
+东森综合,http://211.72.65.236:8524/.m3u8$订阅源|1920x1080
 东森综合,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d$订阅源
 东森综合,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=8908613c59328719e4b4264d598f7ddd$订阅源
-东森综合,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8524/.m3u8$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源|1920x1080
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 东森超视,http://211.72.65.236:8525/.m3u8$订阅源|1920x1080
@@ -1191,8 +1195,6 @@ CHC家庭影院,http://58.19.244.92:1111/tsfile/live/1018_1.m3u8$订阅源
 CHC家庭影院,http://60.255.240.247:8090/live/jbtygqCHCjtyyH265_4000.m3u8$订阅源
 CHC家庭影院,http://183.94.146.109:2222/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8$订阅源
-CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy$订阅源
-CHC家庭影院,http://171.119.205.154:6001/rtp/226.0.2.240:9820$组播源|1920x1080
 CHC动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653$订阅源
 CHC动作电影,https://20241108.weidu.filegear-sg.me/6fcc12cf/6fcc12cf.php?channel=9cbf2cebe7cf1446d2a9ddcb3238013c824b12019be7ef27ecafabc166d80ebe683b790683297cefaa5f5a8fa3071dbe920eadda32274e2e9aeea5a14e69$订阅源
 CHC动作电影,http://58.19.244.92:1111/tsfile/live/1019_1.m3u8$订阅源
@@ -1200,9 +1202,6 @@ CHC动作电影,http://58.48.5.186:1111/tsfile/live/0121_1.m3u8?key=txiptv&playl
 CHC动作电影,http://60.255.240.247:8090/live/wqCHCdzdyH265_4000.m3u8$订阅源
 CHC动作电影,http://183.94.146.109:2222/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CHC动作电影,http://218.76.32.193:9901/tsfile/live/1020_1.m3u8$订阅源
-CHC动作电影,http://112.102.217.173:9003//hls/75/index.m3u8$订阅源
-CHC动作电影,http://219.156.48.185:9999/rtp/225.1.4.208:1261$组播源|1920x1080
-CHC动作电影,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+$组播源|1920x1080
 CHC高清电影,http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 淘电影,http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&icpid=88888888&from=6&popid=6&hms_devid=3725&prioritypopid=6&vqe=3$订阅源|1920x1080
 淘电影,http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?servicetype=1&tenantId=8601&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EKlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20230121144555%2C3067071%2C10.30.228.104%2C20230121144555%2C10000100000000050000000003887498%2C3067071%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201370%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&icpid=88888888&from=6&popid=6&hms_devid=3725&prioritypopid=6&vqe=3$订阅源|1920x1080
@@ -1212,13 +1211,10 @@ CHC高清电影,http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&p
 淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887498%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&from=6&popid=6&hms_devid=3729&prioritypopid=6&vqe=3$订阅源|1920x1080
 NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$订阅源
 NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn/2000000003000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=3$订阅源
-NewTV惊悚悬疑,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$订阅源
 NewTV动作电影,http://gslbserv.itv.cmvideo.cn/2000000003000000017/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=3$订阅源
 NewTV动作电影,http://gslbserv.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3$订阅源
-NewTV动作电影,http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3$订阅源
 NewTV动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653$订阅源
 黑莓电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019624$订阅源
-黑莓电影,http://112.102.217.173:9003//hls/99/index.m3u8$订阅源
 纬来电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=videolandmovie$订阅源
 靖天映画,http://litv.zapi.us.kg/?id=4gtv-4gtv055$订阅源
 靖天映画,https://litv.zapi.us.kg/?id=4gtv-4gtv055$订阅源|1920x1080
@@ -1227,10 +1223,8 @@ NewTV动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
 靖天戏剧,https://litv.zapi.us.kg/?id=4gtv-4gtv058$订阅源|1920x1080
 经典电影,http://litv.zapi.us.kg/?id=4gtv-live021$订阅源
 经典电影,http://113.57.20.158:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-经典电影,http://115.48.60.14:9901/tsfile/live/1032_1.m3u8$订阅源
-经典电影,http://115.48.61.165:9901/tsfile/live/1032_1.m3u8$订阅源
-经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-经典电影,http://115.48.60.155:9901/tsfile/live/1032_1.m3u8$订阅源
+经典电影,http://115.48.60.182:9901/tsfile/live/1032_1.m3u8$订阅源
+经典电影,http://11.xmyxc.cn/api/php/yy.php?id=1450556636$订阅源|1920x1080
 IPTV经典电影,http://123.56.129.203:9986/rtp/225.1.8.203:9024$北京电信组播源
 IPTV经典电影,http://123.56.129.203:9457/rtp/225.1.8.203:9024$北京电信组播源
 无线星河,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8$订阅源|1920x1080
@@ -1248,95 +1242,50 @@ IPTV经典电影,http://123.56.129.203:9457/rtp/225.1.8.203:9024$北京电信组
 东森超视,http://211.72.65.236:8525/.m3u8$订阅源|1920x1080
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 🎥咪咕直播,#genre#
-咪咕直播1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3$订阅源
 咪咕直播1,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播2,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3$订阅源
 咪咕直播2,http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播3,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3$订阅源
 咪咕直播3,http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播4,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3$订阅源
 咪咕直播4,http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播5,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3$订阅源
 咪咕直播5,http://111.13.111.242/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播6,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3$订阅源
 咪咕直播6,http://111.13.111.242/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播7,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3$订阅源
 咪咕直播7,http://111.13.111.242/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播8,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3$订阅源
 咪咕直播8,http://111.13.111.242/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播9,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3$订阅源
 咪咕直播9,http://111.13.111.242/000000001000/3000000001000026778/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播10,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3$订阅源
 咪咕直播10,http://111.13.111.242/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播11,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3$订阅源
 咪咕直播11,http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播12,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3$订阅源
 咪咕直播12,http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播13,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3$订阅源
 咪咕直播13,http://111.13.111.242/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播14,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3$订阅源
 咪咕直播14,http://111.13.111.242/000000001000/3000000010000002032/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播15,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3$订阅源
 咪咕直播15,http://111.13.111.242/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播16,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3$订阅源
 咪咕直播16,http://111.13.111.242/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播17,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3$订阅源
 咪咕直播17,http://111.13.111.242/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播18,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3$订阅源
 咪咕直播18,http://111.13.111.242/000000001000/3000000010000004464/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播19,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3$订阅源
 咪咕直播19,http://111.13.111.242/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播20,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3$订阅源
 咪咕直播20,http://111.13.111.242/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播21,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3$订阅源
 咪咕直播21,http://111.13.111.242/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播22,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3$订阅源
 咪咕直播22,http://111.13.111.242/000000001000/3000000010000006944/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播23,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3$订阅源
 咪咕直播23,http://111.13.111.242/000000001000/3000000010000007692/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播24,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3$订阅源
 咪咕直播24,http://111.13.111.242/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播25,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3$订阅源
 咪咕直播25,http://111.13.111.242/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播26,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3$订阅源
 咪咕直播26,http://111.13.111.242/000000001000/3000000010000011112/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播27,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3$订阅源
 咪咕直播27,http://111.13.111.242/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播28,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3$订阅源
 咪咕直播28,http://111.13.111.242/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播29,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3$订阅源
 咪咕直播29,http://111.13.111.242/000000001000/3000000010000011763/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播30,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3$订阅源
 咪咕直播30,http://111.13.111.242/000000001000/3000000010000011873/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播31,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3$订阅源
 咪咕直播31,http://111.13.111.242/000000001000/3000000010000012398/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播32,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3$订阅源
 咪咕直播32,http://111.13.111.242/000000001000/3000000010000012450/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播33,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3$订阅源
 咪咕直播33,http://111.13.111.242/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播34,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=3$订阅源
 咪咕直播34,http://111.13.111.242/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播35,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=3$订阅源
 咪咕直播35,http://111.13.111.242/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播36,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=3$订阅源
 咪咕直播36,http://111.13.111.242/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播37,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=3$订阅源
 咪咕直播37,http://111.13.111.242/000000001000/3000000010000017389/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播38,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3$订阅源
 咪咕直播38,http://111.13.111.242/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播39,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3$订阅源
 咪咕直播39,http://111.13.111.242/000000001000/3000000010000017997/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播40,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3$订阅源
 咪咕直播40,http://111.13.111.242/000000001000/3000000010000019380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播41,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3$订阅源
 咪咕直播41,http://111.13.111.242/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播42,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3$订阅源
 咪咕直播42,http://111.13.111.242/000000001000/3000000010000020168/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播43,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3$订阅源
 咪咕直播43,http://111.13.111.242/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播44,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3$订阅源
 咪咕直播44,http://111.13.111.242/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
-咪咕直播45,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3$订阅源
 咪咕直播45,http://111.13.111.242/000000001000/3000000010000024205/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=$订阅源|1920x1080
 🏛经典剧场,#genre#
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$订阅源
@@ -1346,6 +1295,8 @@ IPTV经典电影,http://123.56.129.203:9457/rtp/225.1.8.203:9024$北京电信组
 天龙八部,https://live.metshop.top/yy/1351814644$订阅源|1920x1080
 天龙八部,http://159.75.85.63:35455/huya/23903123$订阅源|1920x1080
 天龙八部,https://lunbo.freetv.top/yy/1351814644$订阅源|1920x1080
+天龙八部,http://11.xmyxc.cn/api/php/yy.php?id=1351814644$订阅源|1920x1080
+天龙八部,http://11.xmyxc.cn/api/php/yy.php?id=1382749944$订阅源|1920x1080
 鹿鼎记,https://live.metshop.top/yy/28265277$订阅源|1920x1080
 鹿鼎记,https://lunbo.freetv.top/yy/1354658049$订阅源|1920x1080
 鹿鼎记,https://lunbo.freetv.top/yy/28265277$订阅源|1920x1080
@@ -1357,13 +1308,15 @@ IPTV经典电影,http://123.56.129.203:9457/rtp/225.1.8.203:9024$北京电信组
 新白娘子传奇,https://live.metshop.top/yy/1354490667$订阅源|1920x1080
 新白娘子传奇,http://159.75.85.63:35455/yy/1354930969$订阅源|1920x1080
 新白娘子传奇,https://lunbo.freetv.top/yy/1354930969$订阅源|1920x1080
+新白娘子传奇,http://11.xmyxc.cn/api/php/yy.php?id=1508902755$订阅源|1920x1080
+新白娘子传奇,http://11.xmyxc.cn/api/php/yy.php?id=634132$订阅源|1920x1080
+济公游记,http://11.xmyxc.cn/api/php/yy.php?id=1355265814$订阅源|1920x1080
 封神榜,https://live.metshop.top/yy/1353426319$订阅源|1920x1080
 封神榜,https://lunbo.freetv.top/yy/1353426319$订阅源|1920x1080
 上海滩,https://live.metshop.top/yy/1382745184$订阅源|1920x1080
 🈳无结果频道,#genre#
 CETV5,url
 文化精品,url
-央视台球,url
 风云音乐,url
 第一剧场,url
 风云剧场,url
@@ -1386,6 +1339,5 @@ Now华剧,url
 东森洋片,url
 西游记,url
 水浒传,url
-济公游记,url
 闯关东,url
 射雕英雄传,url
