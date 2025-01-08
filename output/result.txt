@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-08 07:11:00,url
+2025-01-08 19:10:12,url
 📺央视频道,#genre#
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3$订阅源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -1078,10 +1078,10 @@ CETV4,http://123.56.129.203:1549/rtp/225.1.8.195:4120$北京电信组播源
 凤凰香港,http://r.jdshipin.com/NfC0f$订阅源
 凤凰香港,http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://120.84.96.42:808/hls/81/index.m3u8$订阅源
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn$订阅源
-凤凰香港,http://www.lebaobei.top:6868/rtp/239.255.30.123:8231$组播源
 凤凰卫视,http://58.215.231.60/live2.rxip.sc96655.com/live/test1_4000.m3u8$订阅源
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
 凤凰卫视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd$订阅源
+凤凰卫视,https://tvbox.nat.netsite.cc:8043/proxy/1650326537/1650326537.m3u8$订阅源
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源|1920x1080
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源|1920x1080
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源|1920x1080
@@ -1127,18 +1127,15 @@ Viutv,https://live.hkdvb.com/hls/live/99.m3u8?token=631170156121436&edge=live.tv
 东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?$订阅源
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$订阅源
 东森电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie$订阅源
+东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996$订阅源
+东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859$订阅源
 🎬电影频道,#genre#
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$订阅源
 CHC家庭影院,http://59.173.243.210:9901/tsfile/live/1031_1.m3u8$订阅源
-CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002$订阅源
-CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt$订阅源
 CHC家庭影院,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=chcjtdy$订阅源
 CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8$订阅源
-CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz$订阅源
 CHC动作电影,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=chcdzdy$订阅源
-CHC动作电影,http://222.218.158.141:8181/tsfile/live/1019_1.m3u8$订阅源
-CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002$订阅源
 CHC动作电影,http://219.159.194.244:8181/tsfile/live/1019_1.m3u8$订阅源
 淘电影,http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源|1920x1080
 淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源|1920x1080
@@ -1155,8 +1152,6 @@ NewTV动作电影,http://gslbserv.itv.cmvideo.cn/1000000004000018653/1.m3u8?chan
 经典电影,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8$订阅源
 经典电影,http://120.238.94.10:9901/tsfile/live/1040_1.m3u8$订阅源
 经典电影,http://144.52.160.109:9901/tsfile/live/1075_1.m3u8$订阅源
-经典电影,http://219.159.194.241:8181/tsfile/live/1008_1.m3u8$订阅源
-经典电影,http://222.218.158.141:8181/tsfile/live/1008_1.m3u8$订阅源
 IPTV经典电影,http://123.56.129.203:8310/rtp/225.1.8.203:9024$北京电信组播源
 IPTV经典电影,http://123.56.129.203:7533/rtp/225.1.8.203:9024$北京电信组播源
 IPTV经典电影,http://123.56.129.203:1549/rtp/225.1.8.203:9024$北京电信组播源
@@ -1166,6 +1161,8 @@ IPTV经典电影,http://123.56.129.203:1549/rtp/225.1.8.203:9024$北京电信组
 东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?$订阅源
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$订阅源
 东森电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie$订阅源
+东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996$订阅源
+东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源|1920x1080
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
@@ -1174,6 +1171,9 @@ IPTV经典电影,http://123.56.129.203:1549/rtp/225.1.8.203:9024$北京电信组
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$订阅源
 笑傲江湖,http://live.iill.top/huya.php?id=23865142$订阅源
 天龙八部,http://live.iill.top/huya.php?id=23903123$订阅源
+鹿鼎记,http://huanqiuzhibo.cn/manifest/huya.php?id=23865080$订阅源
+封神榜,http://huanqiuzhibo.cn/manifest/huya.php?id=23749096$订阅源
+射雕英雄传,http://huanqiuzhibo.cn/manifest/huya.php?id=23824164$订阅源
 🈳无结果频道,#genre#
 CETV5,url
 文化精品,url
@@ -1248,14 +1248,11 @@ CHC高清电影,url
 咪咕直播43,url
 咪咕直播44,url
 咪咕直播45,url
-鹿鼎记,url
 仙剑奇侠传,url
 西游记,url
 三国演义,url
 水浒传,url
 新白娘子传奇,url
 济公游记,url
-封神榜,url
 闯关东,url
 上海滩,url
-射雕英雄传,url
