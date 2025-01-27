@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-27 19:08:11,url
+2025-01-28 07:11:02,url
 📺央视频道,#genre#
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3$订阅源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -1083,7 +1083,6 @@ IPTV经典电影,http://123.56.129.203:1549/rtp/225.1.8.203:9024$北京电信组
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$订阅源
 笑傲江湖,http://live.iill.top/huya.php?id=23865142$订阅源
 天龙八部,http://live.iill.top/huya.php?id=23903123$订阅源
-三国演义,http://live.metshop.top/huya/11602081$订阅源
 🈳无结果频道,#genre#
 CETV5,url
 文化精品,url
@@ -1162,6 +1161,7 @@ CHC高清电影,url
 鹿鼎记,url
 仙剑奇侠传,url
 西游记,url
+三国演义,url
 水浒传,url
 新白娘子传奇,url
 济公游记,url
