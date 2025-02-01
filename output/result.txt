@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-01 19:05:27,url
+2025-02-02 07:10:36,url
 📺央视频道,#genre#
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3$订阅源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -1045,6 +1045,7 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 🎬电影频道,#genre#
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$订阅源
+CHC动作电影,http://59.173.243.210:9901/tsfile/live/1012_1.m3u8$订阅源
 NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$订阅源
 NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn/2000000003000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=3$订阅源
 NewTV动作电影,http://gslbserv.itv.cmvideo.cn/2000000003000000017/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=3$订阅源
@@ -1054,6 +1055,7 @@ NewTV动作电影,http://gslbserv.itv.cmvideo.cn/1000000004000018653/1.m3u8?chan
 IPTV经典电影,http://123.56.129.203:8310/rtp/225.1.8.203:9024$北京电信组播源
 IPTV经典电影,http://123.56.129.203:7533/rtp/225.1.8.203:9024$北京电信组播源
 IPTV经典电影,http://123.56.129.203:1549/rtp/225.1.8.203:9024$北京电信组播源
+无线星河,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8$订阅源
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 东森电影,https://bsex.serv00.net/Smart.php?id=ettvmovie$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源|1920x1080
@@ -1063,6 +1065,10 @@ IPTV经典电影,http://123.56.129.203:1549/rtp/225.1.8.203:9024$北京电信组
 🏛经典剧场,#genre#
 笑傲江湖,http://live.iill.top/huya.php?id=23865142$订阅源
 天龙八部,http://live.iill.top/huya.php?id=23903123$订阅源
+鹿鼎记,http://huanqiuzhibo.cn/manifest/huya.php?id=23865080$订阅源
+仙剑奇侠传,http://jiaojirentv.top/2020/yy.php?id=1382749903$订阅源
+封神榜,http://huanqiuzhibo.cn/manifest/huya.php?id=23749096$订阅源
+射雕英雄传,http://huanqiuzhibo.cn/manifest/huya.php?id=23824164$订阅源
 🈳无结果频道,#genre#
 CETV5,url
 文化精品,url
@@ -1080,7 +1086,6 @@ Now华剧,url
 靖天资讯,url
 星卫娱乐,url
 卫视卡式,url
-CHC动作电影,url
 CHC高清电影,url
 淘剧场,url
 淘娱乐,url
@@ -1091,7 +1096,6 @@ CHC高清电影,url
 星卫娱乐,url
 艾尔达娱乐,url
 天映经典,url
-无线星河,url
 私人影院,url
 龙祥电影,url
 东森洋片,url
@@ -1140,14 +1144,10 @@ CHC高清电影,url
 咪咕直播43,url
 咪咕直播44,url
 咪咕直播45,url
-鹿鼎记,url
-仙剑奇侠传,url
 西游记,url
 三国演义,url
 水浒传,url
 新白娘子传奇,url
 济公游记,url
-封神榜,url
 闯关东,url
 上海滩,url
-射雕英雄传,url
