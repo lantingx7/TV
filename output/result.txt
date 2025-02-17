@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-17 19:09:32,url
+2025-02-18 07:10:10,url
 📺央视频道,#genre#
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3$订阅源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -382,6 +382,7 @@ CETV4,http://123.56.129.203:1549/rtp/225.1.8.195:4120$北京电信组播源
 广东卫视,http://123.56.129.203:1549/rtp/225.1.8.151:8132$北京电信组播源
 广东卫视,http://122.9.151.210:6209/rtp/238.255.2.59:5999$组播源
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅源
+香港卫视,http://anren.live/HK/BSJDUFpB.m3u8$订阅源
 浙江卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265031/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=no$订阅源
 浙江卫视,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=3$订阅源
 浙江卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000004000007275/index.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=no$订阅源
@@ -872,12 +873,12 @@ CETV4,http://123.56.129.203:1549/rtp/225.1.8.195:4120$北京电信组播源
 三沙卫视,http://122.9.151.210:1011/rtp/238.255.2.203:5999$贵州电信组播源
 三沙卫视,http://122.9.151.210:8088/rtp/238.255.2.203:5999$组播源
 三沙卫视,http://123.56.129.203:5431/rtp/225.1.8.78:4120$组播源
-三沙卫视,http://123.56.129.203:2604/rtp/225.1.8.78:4120$组播源
 三沙卫视,http://123.56.129.203:7533/rtp/225.1.8.78:4120$北京电信组播源
 三沙卫视,http://123.56.129.203:1549/rtp/225.1.8.78:4120$北京电信组播源
 三沙卫视,http://122.9.151.210:6209/rtp/238.255.2.203:5999$组播源
 三沙卫视,http://139.196.151.191:7549/rtp/239.45.1.82:5140$组播源
 三沙卫视,http://139.129.231.228:3529/rtp/239.21.2.9:5002$组播源
+三沙卫视,http://139.129.231.228:50060/rtp/239.21.2.9:5002$组播源
 天津卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265026/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=no$订阅源
 天津卫视,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/6000000001000009186/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=3$订阅源
 天津卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000004000006827/index.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=no$订阅源
@@ -964,13 +965,12 @@ CETV4,http://123.56.129.203:1549/rtp/225.1.8.195:4120$北京电信组播源
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$订阅源
 明珠台,http://r.jdshipin.com/GeWKr?id=mzt720$订阅源
 明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8$订阅源
-明珠台,http://8.138.7.223/tv/gdmzyd.php?id=3$订阅源|1920x1080
 凤凰中文,http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.105.252.59:80/PLTV/3/224/3221228527/1.m3u8?accountinfo=liKUscxeA3mntTkvcrPdLC0JYhRJ8GbjSgBJJtzDsTUq%2FpkEzcEgSA5jxU7E691yoTzNtIBFrb%2BIDS0e%2Fx7VbeVgZAe%2Fh9LVb30YjuWosxNwd%2FGCIxz9Y34Vf7X4oRpDbF2ObC9a54Vp367lDA52PczEcH9gPEwYj%2BtNwrWi0aU%3D%3A20241025090449%2C-1%2C112.25.63.228%2C20241025090449%2CHD-10000k-1080P-fhchinese5s%2C1734243741512_23%3A8F%3AF4%3AAE%3A73%3AC6%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000016268459_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FHD-10000k-1080P-fhchinese5s%2FHD-10000k-1080P-fhchinese5s&icpid=88888888&from=5&popid=5&hms_devid=6885&prioritypopid=5$订阅源
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8$订阅源
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8$订阅源
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$订阅源
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源
-凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源
+凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源|1920x1080
 凤凰中文,http://www.terrykang.cn:5678/sxg.php?id=test1_4000$订阅源
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8?$订阅源
@@ -1002,9 +1002,9 @@ CETV4,http://123.56.129.203:1549/rtp/225.1.8.195:4120$北京电信组播源
 凤凰香港,https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8$订阅源|1920x1080
 凤凰卫视,http://58.215.231.60/live2.rxip.sc96655.com/live/test1_4000.m3u8$订阅源
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源
-凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源
+凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源|1920x1080
 凤凰卫视,https://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd$订阅源
-凤凰卫视,http://119.32.12.32:2901/udp/224.1.100.3:11111$订阅源
+凤凰卫视,http://119.32.12.32:2901/udp/224.1.100.3:11111$订阅源|1920x1080
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源|1920x1080
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源|1920x1080
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源|1920x1080
@@ -1015,6 +1015,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$订阅源|192
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源|1920x1080
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源|1920x1080
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅源
+香港卫视,http://anren.live/HK/BSJDUFpB.m3u8$订阅源
 纬来体育,https://cloud.yumixiu768.com:443/tmp/123.m3u8$订阅源
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8$订阅源
@@ -1062,12 +1063,16 @@ CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba020
 CHC家庭影院,http://180.213.174.225:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002$订阅源|1920x1080
+CHC家庭影院,http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111$订阅源|1920x1080
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8$订阅源
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=fb9ef80443f06c3612ddd35545ec1054b5bcab3941fc46ecf84808bdd512d7b2cf16d34fdf955bff71bf01f818f6918ba2d7f536dc5451d1519d15cf8a5671bf16ea8a3bbc71db4477476e211d$订阅源|1920x1080
 CHC动作电影,http://180.213.174.225:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CHC动作电影,http://119.32.12.32:2901/udp/224.1.100.131:11111$订阅源
+CHC动作电影,http://119.32.12.32:2901/udp/224.1.100.131:11111$订阅源|1920x1080
 CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002$订阅源|1920x1080
+CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.131:11111$订阅源|1920x1080
+CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.132:11111$订阅源|1920x1080
+CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz$订阅源
 NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$订阅源
 NewTV惊悚悬疑,http://gslbserv.itv.cmvideo.cn/2000000003000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000015&livemode=1&stbId=3$订阅源
 NewTV动作电影,http://gslbserv.itv.cmvideo.cn/2000000003000000017/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000017&livemode=1&stbId=3$订阅源
@@ -1081,7 +1086,6 @@ NewTV动作电影,http://gslbserv.itv.cmvideo.cn/1000000004000018653/1.m3u8?chan
 IPTV经典电影,http://123.56.129.203:7533/rtp/225.1.8.203:9024$北京电信组播源
 IPTV经典电影,http://123.56.129.203:1549/rtp/225.1.8.203:9024$北京电信组播源
 无线星河,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8$订阅源
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8$订阅源
 东森电影,https://haoyunlai.serv00.net/Smartv-1.php?id=ettvmovie$订阅源
 东森电影,http://go1.bkpcp.top/tl/null-11$订阅源|1920x1080
@@ -1094,6 +1098,7 @@ IPTV经典电影,http://123.56.129.203:1549/rtp/225.1.8.203:9024$北京电信组
 🏛经典剧场,#genre#
 笑傲江湖,http://live.iill.top/huya.php?id=23865142$订阅源
 天龙八部,http://live.iill.top/huya.php?id=23903123$订阅源
+仙剑奇侠传,http://jiaojirentv.top/2020/yy.php?id=1382749903$订阅源
 🈳无结果频道,#genre#
 CETV5,url
 文化精品,url
@@ -1118,6 +1123,7 @@ CHC高清电影,url
 星卫娱乐,url
 艾尔达娱乐,url
 天映经典,url
+星空卫视,url
 私人影院,url
 龙祥电影,url
 东森洋片,url
@@ -1167,7 +1173,6 @@ CHC高清电影,url
 咪咕直播44,url
 咪咕直播45,url
 鹿鼎记,url
-仙剑奇侠传,url
 西游记,url
 三国演义,url
 水浒传,url
