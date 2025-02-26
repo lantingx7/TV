@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-26 19:11:15,url
+2025-02-27 07:12:23,url
 📺央视频道,#genre#
 CCTV-1,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3$订阅源
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -1064,7 +1064,7 @@ NewTV动作电影,http://gslbserv.itv.cmvideo.cn/1000000004000018653/1.m3u8?chan
 黑莓电影,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=yu&mode=1&$订阅源
 黑莓电影,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=yu&mode=1&$订阅源
 黑莓电影,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=yu&mode=1&$订阅源
-纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8$订阅源
+纬来电影,http://122.117.71.103:8554/http/61.222.53.250:8081/hls/69/811/ch35.m3u8$订阅源|1920x1080
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058$订阅源|1920x1080
 经典电影,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8$订阅源
 IPTV经典电影,http://123.56.129.203:7533/rtp/225.1.8.203:9024$北京电信组播源
@@ -1080,6 +1080,7 @@ IPTV经典电影,http://123.56.129.203:1549/rtp/225.1.8.203:9024$北京电信组
 🏛经典剧场,#genre#
 笑傲江湖,http://live.iill.top/huya.php?id=23865142$订阅源
 天龙八部,http://live.iill.top/huya.php?id=23903123$订阅源
+仙剑奇侠传,http://jiaojirentv.top/2020/yy.php?id=1382749903$订阅源
 🈳无结果频道,#genre#
 CETV5,url
 文化精品,url
@@ -1153,7 +1154,6 @@ CHC高清电影,url
 咪咕直播44,url
 咪咕直播45,url
 鹿鼎记,url
-仙剑奇侠传,url
 西游记,url
 三国演义,url
 水浒传,url
