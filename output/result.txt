@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-28 19:11:25,url
+2025-03-29 07:16:29,url
 📺央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-1,http://61.164.209.98/cache.ott.bestlive.itv.cmvideo.cn/000000001000/6000000001000029752/index.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=no$订阅源
@@ -960,7 +960,7 @@ CETV4,http://123.56.129.203:1549/rtp/225.1.8.195:4120$北京电信组播源
 翡翠台,https://cdn.iptv8k.top/dl/jspd.php?id=3&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=1&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=4&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
-翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8$订阅源|1920x1080
+翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8$订阅源
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8$订阅源|1920x1080
 翡翠台,http://r.jdshipin.com/62WM7$订阅源
 翡翠台,http://r.jdshipin.com/n90gt$订阅源
@@ -973,8 +973,8 @@ CETV4,http://123.56.129.203:1549/rtp/225.1.8.195:4120$北京电信组播源
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8$订阅源
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8$订阅源
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8$订阅源
-凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8$订阅源|1920x1080
-凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源|1920x1080
+凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8$订阅源
+凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源
 凤凰中文,http://r.jdshipin.com/cCCzW$订阅源
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源|1920x1080
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$订阅源|1920x1080
@@ -1042,7 +1042,7 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源|1920x1080
 无线新闻,http://cdn.iptv8k.top/dl/jspd.php?id=2$订阅源|1920x1080
 无线新闻,https://nothingbe.serv00.net/tvb.php?id=C&type=hd$订阅源|1920x1080
 无线新闻,http://r.jdshipin.com/CkuBd$订阅源
-无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$订阅源
+无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$订阅源|1920x1080
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8$订阅源
 三立新闻,https://tv.iill.top/4gtv/229$订阅源
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40$订阅源|1920x1080
